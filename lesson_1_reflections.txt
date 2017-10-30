@@ -1,3 +1,5 @@
+Mia Muoneke
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
@@ -42,4 +44,4 @@ What do you think are the pros and cons of manually choosing when to create a co
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-    While in a git folder, many times, the files effect each other, or build off of each other, in Google docs, the files can be completely separate. 
+    While in a git folder, many times, the files effect each other, or build off of each other, in Google docs, the files can be completely separate.
